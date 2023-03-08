@@ -1,6 +1,6 @@
 # Data-Science-Practicum-Project-I
 
-## Project Title : Home loan approval prediction using machine learning models.
+###  Project Title : Home loan approval prediction using machine learning models.
 image.png
 
 # Purpose
