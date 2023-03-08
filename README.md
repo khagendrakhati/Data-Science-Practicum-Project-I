@@ -22,7 +22,7 @@ Model building: Apply ML classification algorithms.
 
 Hyperparameter Optimization.
 
-# Result visualization and presentation.
+Result visualization and presentation.
 
 ## Understanding and loading the data
 The machine learning model is trained using the training data set. Every new applicant details filled at the time of application form acts as a test data set. On the basis of the training data sets, the model will predict whether a loan would be approved or not. We have 13 features in total out of which we have 12 independent variables and 1 dependent variable i.e. Loan_Status in train dataset and 12 independent variables in test dataset. The Loan_ID, Gender, Married, Dependents, Education, Self_Employed, Property_Area, Loan_Status are all categorical
